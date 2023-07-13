@@ -11,6 +11,7 @@ This Project created for only for General Coding Assessment - Node
 
 - first run the commands in sql.txt file in Helpers folder.
 - if you setup password for mysql then please add password in db.ts file(for now it's blank)
+- run `node_modules/typescript/bin/tsc` for initial run
 - run `npm run dev`
 
 ### Test APIs
